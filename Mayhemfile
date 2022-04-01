@@ -1,0 +1,6 @@
+image: $MAYHEM_DOCKER_REGISTRY/histo
+target: histo
+duration: 300
+project: histo
+cmds:
+  - cmd: histo
